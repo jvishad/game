@@ -42,3 +42,5 @@ int main()
 	 cout<<"The distance for dp is " << editdistance(a,b,m,n) << endl;
 	
 }
+
+output = The distance for dp is 6
